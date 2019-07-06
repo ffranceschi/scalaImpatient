@@ -1,0 +1,1 @@
+for (i <- 0 to 1; c <- "Hello") yield (c + i).toChar
